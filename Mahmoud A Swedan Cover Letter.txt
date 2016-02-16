@@ -1,0 +1,27 @@
+MAHMOUD A. SWEDAN                  
+Phone: (+20-111) 000-9089  | Email: swedan2003@gmail.com  | Skype: m.swedan
+LinkedIn Profile: eg.linkedin.com/in/MahmoudASwedan
+Address: 10 Hasan Al-Mamoon Street, Six District  (  Nasr City, Cairo, Egypt, P.O:  11787
+
+
+
+I am writing in response to your advertisement for Software Engineer.
+After reading your job description, I am confident that my skills and my passion for technology are a perfect match for this position.
+ 
+I would bring to your company some skills, including:
+* Created Automotive Software for high profile clients like BMW, VW, PSA, FORD and Renault
+* Created Payment Software for Multinational/National banks  
+* Worked with Qualcomm to develop Communication software based on DMSS (CDMA 2000).
+* Experienced with wide variety of Micro-controllers, Compilers and Debuggers (Vxworks, OSEK, UCOS||, OSEK and REX), (ARM, AVR, MIPS, Freescale S12XD, NEC V850FF3), (CodeSourcery, ADS 1.2, GCC, …)
+* Experienced in Model-Driven Development using IBM Rational StateMate®
+* Experienced in Payment Industry: Bank messaging specs(ISO-8583), Global Card Schemes (VISA, MasterCard), PCI compliance, card security and Transaction security/EMV, Chip&Pin technologies (EMV L2) & Contactless, ADVT/ M-TIP - Type Approval testing
+* Experienced in Requirement engineering and Elicitation Techniques.
+* Supervise Validation, integration, Unit Testing and static code analysis.
+* Good practitioner of CMMI Model and creating documentation for different process areas
+ 
+I would welcome the opportunity to further discuss this position with you. If you have questions or would like to schedule an interview, please contact me by phone at
++20111-000-9089 or by e-mail at swedan2003@gmail.com. I have enclosed my resume for your review, and I look forward to hearing from you.
+ 
+Sincerely,
+Mahmoud Swedan
+
